@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AzariasArtSpace</string>
+    <string name="The_Thing">The Thing  </string>
+    <string name="The_Thing_Director">  John Carpenter</string>
+    <string name="The_Thing_Year">  1982</string>
+    <string name="Back_To_The_Future">Back to the Future  </string>
+    <string name="Back_To_The_Future_Director">  Robert Zemeckis</string>
+    <string name="Back_To_The_Future_Year">  1985</string>
+    <string name="Throne_of_Blood">Throne of Blood  </string>
+    <string name="Throne_of_Blood_Director">  Akira Kurosawa</string>
+    <string name="Throne_of_Blood_Year">  1957</string>
+    <string name="Metropolis">Metropolis  </string>
+    <string name="Metropolis_Director">  Fritz Lang</string>
+    <string name="Metropolis_Year">  1927</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
